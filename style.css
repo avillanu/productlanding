@@ -1,0 +1,13 @@
+#nav-bar{
+  background-color:grey;}
+
+@media screen and (min-width: 480px) {
+  body {
+    background-color: grey;
+  }
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
